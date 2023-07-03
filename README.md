@@ -1,2 +1,2 @@
 # Diplomarbeit
-Markdown to Moodl-XML Converter
+Markdown to Moodle-XML Converter
